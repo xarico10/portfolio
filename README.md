@@ -1,2 +1,2 @@
-# portfolio
-Professional Portfolio focusing on my projects on Operations Research (Mathematical Optimization and Heuristics) and Data Science.
+# Portfolio
+My professional portfolio focuses on my projects in operations research (mathematical optimization and heuristics) and data science.
